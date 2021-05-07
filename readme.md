@@ -1,1 +1,1 @@
-# 따로 진행중인 Django 교육자료 입니다.
+# FastCampu Django 교육자료 입니다.
