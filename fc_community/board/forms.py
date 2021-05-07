@@ -10,3 +10,6 @@ class BoardForm(forms.Form):
         error_messages={
             'required':'내용을 입력해주세요'
         }, widget=forms.Textarea, label="내용" )
+    tags = forms.CharField(
+        required=False, label='태그'
+    )
